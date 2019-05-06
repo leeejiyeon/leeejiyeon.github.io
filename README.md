@@ -1,2 +1,0 @@
-# leeejiyeon.github.io
-static
